@@ -10,7 +10,7 @@
     height: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./images/advice-background.jpg);
     /* below both properties are important for displaying an image */
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     display: flex;
     justify-content: center;
